@@ -11,6 +11,11 @@ package com.iescomercio.pruebagit.stelian;
  * @author Stelian
  */
 public class ModificadaPorAmbos {
+    
+    public String holaPais(){
+    return "Hola Pais";
+    }
+    
     public int sumar(int a, int b){
         return a+b;
     }
